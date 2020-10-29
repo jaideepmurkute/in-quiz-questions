@@ -1,16 +1,16 @@
 ﻿## Machine Learning Assessment
 
 #### Q01. You are part of data science team that is working for a national fast-food chain. You create a simple report that shows trend: Customers who visit the store more often and buy smaller meals spend more than customers who visit less frequently and buy larger meals. What is the most likely diagram that your team created?
-- [x] multiclass classification diagram
-- [ ] linear regression and scatter plots
+- [ ] multiclass classification diagram
+- [x] linear regression and scatter plots
 - [ ] pivot table
 - [ ] K-means cluster diagram 
 
 #### Q02. You work for an organization that sells a spam filtering service to large companies. Your organization wants to transition its product to use machine learning. It currently a list Of 250,00 keywords. If a message contains more than few of these keywords, then it is identified as spam. What would be one advantage of transitioning to machine learning?
-- [ ] The product would look for new patterns in spam messages.
+- [x] The product would look for new patterns in spam messages.
 - [ ] The product could go through the keyword list much more quickly.
 - [ ] The product could have a much longer keyword list.
-- [x] The product could find spam messages using far fewer keywords.
+- [ ] The product could find spam messages using far fewer keywords.
 
 #### Q03. You work for a music streaming service and want to use supervised machine learning to classify music into different genres. Your service has collected thousands of songs in each genre, and you used this as your training data. Now you pull out a small random subset of all the songs in your service. What is this subset called?
 - [ ] data cluster
@@ -146,9 +146,9 @@ Note: While machine learning algorithms don't have bias, the data can have them.
 Note: The problem explicitly states "clustering".
 
 #### Q24. Your company wants you to build an internal email text prediction model to speed up the time that employees spend writing emails. What should you do?
-- [x] Include training email data from all employees.
+- [ ] Include training email data from all employees.
 - [ ] Include training email data from new employees.
-- [ ] Include training email data from seasoned employees.
+- [x] Include training email data from seasoned employees.
 - [ ] Include training email data from employees who write the majority of internal emails.
 
 
@@ -174,10 +174,10 @@ Note: thre are centres of clusters (C0, C1, C2).
 - [ ] stacked trees
 
 #### Q28. Self-organizing maps are specialized neural network for which type of machine learning?
-- [x] semi-supervised learning
+- [ ] semi-supervised learning
 - [ ] supervised learning
 - [ ] reinforcement learning
-- [ ] unsupervised learning
+- [x] unsupervised learning
 
 #### Q29. Which statement about K-means clustering is true?
 - [x] In K-means clustering, the initial centroids are sometimes randomly selected.
@@ -303,9 +303,9 @@ Note: This one is similar to an example talked about in the Stanford Machine Lea
 #### QTraining2. Man of the advances in ml have come from improved
 
 - [ ] statistics
-- [x] structured data
+- [ ] structured data
 - [ ] availability
-- [ ] algorithms
+- [x] algorithms
 
 #### Q45. What is the diagram a good example of ?
 ![Machine Learning Q45](images/machine-learning_Q45.jpg)
@@ -352,8 +352,8 @@ Note: This one is similar to an example talked about in the Stanford Machine Lea
 #### Q51. You and your data science team have 1 TB of example data. What do you typically do with that data?
 
 - [ ] you use it as your training set.
-- [X] You label it big data.
-- [ ] You split it into a training set and test set.
+- [ ] You label it big data.
+- [x] You split it into a training set and test set.
 - [ ] You use it as your test set.
 
 #### Q52. Your data science team is working on a machine learning product that can act as an artificial opponent in video games. The team is using a machine learning algorithm that focuses on rewards: If the machine does some things well, then it improves the quality of the outcome. How would you describe this type of machine learning algorithm?
@@ -367,8 +367,8 @@ Note: This one is similar to an example talked about in the Stanford Machine Lea
 
 - [ ] Batch learning
 - [ ] Offline learning
-- [X] Both A and B
-- [ ] None of the above
+- [] Both A and B
+- [x] None of the above
 
 #### Q54. Which of the following is NOT supervised learning? ?
 
